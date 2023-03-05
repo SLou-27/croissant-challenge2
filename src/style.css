@@ -20,7 +20,7 @@ img {
     display: block;
     margin: auto;
 }
-@media (min-width: 576px) {
+@media (max-width: 576px) {
     p {
       font-size: 30px;
     }
