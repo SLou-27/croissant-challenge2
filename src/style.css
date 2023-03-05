@@ -16,7 +16,7 @@ a {
     color: #3b2b2f;
 }
 img {
-    max-width: 600px;
+    max-width: 100%;
     display: block;
     margin: auto;
 }
@@ -25,6 +25,6 @@ img {
       font-size: 15px;
     }
     img {
-        max-width: 400px;
+        max-width: 300px;
     }
   }
