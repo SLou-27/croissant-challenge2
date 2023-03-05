@@ -1,0 +1,15 @@
+p {
+    text-align: center;
+    color: #3b2b2f;
+}
+body {
+    background: #e2d1c3;
+}
+a {
+    color: #3b2b2f;
+}
+img {
+    max-width: 600px;
+    display: block;
+    margin: auto;
+}
