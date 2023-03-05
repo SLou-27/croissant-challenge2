@@ -7,7 +7,7 @@ h1 {
 p {
     text-align: center;
     color: #3b2b2f;
-    font-size: 20px;
+    font-size: 15px;
 }
 body {
     background: #e2d1c3;
@@ -20,7 +20,7 @@ img {
     display: block;
     margin: auto;
 }
-@media (max-width: 576px) {
+@media (min-width: 576px) {
     p {
       font-size: 30px;
     }
